@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "805752477808",
+    "firebase_url": "https://exopwithfbase.firebaseio.com",
+    "project_id": "exopwithfbase",
+    "storage_bucket": "exopwithfbase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:805752477808:android:3d90f91fd48e6ea1",
+        "android_client_info": {
+          "package_name": "com.ashok.exopwithfb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "805752477808-49jk0csv97n4gj57ote55n2v3cmasv7b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPRMJGcOsE6kajmxUKZXh4uqqpGkxKUCs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
